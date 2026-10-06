@@ -3,7 +3,7 @@
 
 /* ===== Настройки ===== */
 const CORRECT_NAME = 'Барсбек';
-const CORRECT_DATE = '23/09/2011';
+const CORRECT_DATE = '03/11/2011';
 const PAGE_DURATION = 6000;   // сколько мс показывается каждая страница
 const FLIP_MS = 1300;         // длительность перелистывания (как в CSS)
 const MAX_HEARTS = 14;
